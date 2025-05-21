@@ -3,18 +3,18 @@ import { motion } from 'framer-motion';
 
 export default function Projet() {
   const projects = [
-    // {
-    //   title: 'Projet 1',
-    //   description: 'Description de votre premier projet.',
-    //   image: 'https://via.placeholder.com/300',
-    //   link: '#',
-    // },
-    // {
-    //   title: 'Projet 2',
-    //   description: 'Description de votre deuxième projet.',
-    //   image: 'https://via.placeholder.com/300',
-    //   link: '#',
-    // },
+    {
+      title: 'Projet 1',
+      description: 'Description de votre premier projet.',
+      image: 'https://via.placeholder.com/300',
+      link: '#',
+    },
+    {
+      title: 'Projet 2',
+      description: 'Description de votre deuxième projet.',
+      image: 'https://via.placeholder.com/300',
+      link: '#',
+    },
   ];
 
   // Animation variants for the container
